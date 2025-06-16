@@ -1,9 +1,9 @@
 // Koneksi API Configuration
 const CONFIG = {
     baseURL: 'https://staging.koneksi.co.kr',
-    clientID: 'id_VtfClbW97CbzR7uPXI3spviggKlAPiITRdRsSlk',
-    clientSecret: 'sk_Q6MAxTcPCsiglTWGA6pEjuS3MyOFGgYMcjRJoUdx7A',
-    directoryID: '684c14d165f6ce338ca8ab9f'
+    clientID: 'id_cfcYGoDGDnHSnaveGrii19mAclsr2GJQkB4pGQ7OIU',
+    clientSecret: 'sk_6FY9OpOrPoUbbegg1TBRg52oshxjb4emNNp2gzZU8I',
+    directoryID: '684fcf32c970238cfdfa13fc'
 };
 
 // DOM Elements
